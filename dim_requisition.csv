@@ -1,0 +1,151 @@
+req_id,department,job_title,level,location,opened_at,closed_at,days_open
+R1000,Marketing,MARKETING ANALYST,senior,"san francisco, ca",2024-05-20,2024-06-30,41
+R1001,customer service,Call center agent,Entry,"San francisco, ca",2024-01-17,2024-01-30,13
+R1002, Customer Service,Call Center Agent,Entry," New York, NY",2024-04-22,2024-06-28,67
+R1003,engineering,Softwaree Engineer,Entry ," New York, NY",2024-06-21,2024-07-14,23
+R1004,marketing,Conteent Manager, Entry,"San Francisco, CA ",2024-08-23,2024-11-09,78
+R1005,Customer service, Support Associate,Entry,"Phoeenix, AZ",2024-02-05,2024-02-20,15
+R1006,HR ,HR Coordinator , Entry,"PHOENIX, AZ",2024-07-05,2024-08-04,30
+R1007,Customer Service,Seervice Lead,Mid,"New York, NY",2024-05-05,2024-06-04,30
+R1008, Engineering,software engineer,Entry ,"Daallas, TX",2024-06-10,2024-08-10,61
+R1009, Operations,WAREHOUSE SUPERVISOR, Entry,"San Francisco, CA",2024-08-22,2024-09-19,28
+R1010,CUSTOMER SERVICE,Caall Center Agent,Entry,"PHOENIX, AZ",2024-07-04,2024-08-11,38
+R1011,engineering,QA Analyst,Mid," San Francisco, CA",2024-08-04,2024-10-29,86
+R1012, Customer Service,Support Associate , Entry,"LOS ANGELES, CA",2024-02-28,2024-05-16,78
+R1013,OPERATIONS,logistics manager, Senior,"San francisco, ca",2024-05-14,2024-07-27,74
+R1014,Engineering,Data Engineer ,Mid,"Phoenix, AZ ",2024-03-23,2024-06-10,79
+R1015,hr,recruiter,Senior,"PHOENIX, AZ",2024-01-30,2024-03-10,40
+R1016,ENGINEERING, QA Analyst,Seenior,"Dallas, tx",2024-08-31,2024-11-19,80
+R1017,HR,hr coordinator,Entry,"Phoenix, AZ ",2024-07-10,2024-09-14,66
+R1018,Marketing,Content Manager,Entry,"dallas, tx",2024-04-27,2024-07-21,85
+R1019,Marketing, SEO Specialist,Senior,"DALLAS, TX",2024-02-06,2024-04-21,75
+R1020,Customer Service,Seervice Lead,entry,"Phoeenix, AZ",2024-08-30,2024-10-10,41
+R1021,HR,hr coordinator,Entry,"new york, ny",2024-07-29,2024-10-06,69
+R1022,Engineering,SOFTWARE ENGINEER,MID,"New York, NY",2024-04-07,2024-06-24,78
+R1023,engineering,Software Engineer,Senior,"Phoenix, az",2024-08-14,2024-11-02,80
+R1024,Engineering,Data Engineeer,ENTRY,"Los Angeles, CA",2024-09-05,2024-11-15,71
+R1025,Opeerations,Supply Chaain Analyst,Entry,"New york, ny",2024-08-20,2024-10-05,46
+R1026,Marketing,Content Manager,Senior,"SAN FRANCISCO, CA",2024-02-01,2024-03-22,50
+R1027,marketing,content manager,Senior,"los angeles, ca",2024-02-11,2024-03-15,33
+R1028,customer service,Support Associatee,Senior ,"New york, ny",2024-01-21,2024-04-19,89
+R1029,HR, Recruiter,Mid ,"Phoenix, AZ",2024-05-15,2024-07-14,60
+R1030,Operations, Warehouse Supervisor,Entry ,"Phoenix, az",2024-02-21,2024-03-11,19
+R1031, HR,HR Coordinator, Senior,"PHOENIX, AZ",2024-03-21,2024-05-26,66
+R1032,HR, Recruiter,Mid,"New york, ny",2024-02-24,2024-05-14,80
+R1033,HR,talent partner,Seenior,"New York, NY",2024-09-07,2024-10-19,42
+R1034,MARKETING,SEO Speciaalist,Seenior,"San Francisco, CA",2024-03-07,2024-04-19,43
+R1035,Marketing,Marketing Analyst ,SENIOR,"LOS ANGELES, CA",2024-03-17,2024-06-04,79
+R1036,Marketing ,Seo specialist,Senior,"Phoenix, AZ ",2024-07-05,2024-07-20,15
+R1037,CUSTOMER SERVICE,CALL CENTER AGENT,Mid,"Dallas, TX ",2024-03-20,2024-04-29,40
+R1038,OPERATIONS,warehouse supervisor,Mid,"Los angeles, ca",2024-05-07,2024-06-20,44
+R1039,Engineering,Data engineer,Entry,"Los Angeles, CA ",2024-06-28,2024-08-16,49
+R1040,HR,Recruiter ,entry,"NEW YORK, NY",2024-05-22,2024-07-15,54
+R1041,Customeer Service,Call Center Agent ,Senior ,"los angeles, ca",2024-01-20,2024-02-12,23
+R1042,Operations,Wareehouse Supervisor,Entry,"Neew York, NY",2024-04-07,2024-05-19,42
+R1043,Marketing ,content manager, Senior," San Francisco, CA",2024-06-18,2024-09-15,89
+R1044,OPERATIONS,Supply chain analyst,Mid," Dallas, TX",2024-07-25,2024-09-10,47
+R1045, Operations,Warehouse supervisor,Mid ,"Los Angeles, CA",2024-01-01,2024-02-18,48
+R1046,Operaations,WAREHOUSE SUPERVISOR,senior,"New York, NY ",2024-04-19,2024-07-03,75
+R1047,Marketing,MARKETING ANALYST,Entry,"Daallas, TX",2024-06-07,2024-07-15,38
+R1048,Customer service,Support Associatee,Mid,"DALLAS, TX",2024-08-21,2024-10-23,63
+R1049,MARKETING,Maarketing Analyst,Entry,"Phoenix, AZ",2024-08-05,2024-09-12,38
+R1050,Engineering ,Daata Engineer,Seenior,"Saan Francisco, CA",2024-09-28,2024-12-18,81
+R1051, Engineering,Qa analyst, Senior,"Saan Francisco, CA",2024-08-31,2024-11-06,67
+R1052, Engineering,Data engineer,Mid ,"new york, ny",2024-08-13,2024-09-01,19
+R1053,ENGINEERING,Software engineer,Entry,"Los Angeles, CA ",2024-04-28,2024-06-26,59
+R1054,Customer service,Call Ceenter Agent,Mid,"San Francisco, CA",2024-07-31,2024-08-17,17
+R1055,Opeerations,Logistics Manageer,Senior,"Los angeles, ca",2024-06-29,2024-08-16,48
+R1056,HR,HR Coordinator ,Seenior,"Daallas, TX",2024-09-05,2024-09-18,13
+R1057,Engineeering,QA Analyst,Entry,"Daallas, TX",2024-09-30,2024-10-13,13
+R1058,Engineering ,Software engineer,Mid ,"Neew York, NY",2024-05-13,2024-07-10,58
+R1059,HR,HR Coordinator,Senior,"New york, ny",2024-05-09,2024-05-29,20
+R1060,Marketing,Content manager,ENTRY,"DALLAS, TX",2024-01-21,2024-02-03,13
+R1061,Operations,Waarehouse Supervisor, Senior,"NEW YORK, NY",2024-02-28,2024-05-20,82
+R1062, Customer Service,service lead,Senior,"Neew York, NY",2024-02-28,2024-03-29,30
+R1063,Operations,warehouse supervisor, Senior,"san francisco, ca",2024-04-11,2024-04-30,19
+R1064,Customeer Service,Support Associate ,Entry ,"Phoeenix, AZ",2024-06-26,2024-09-12,78
+R1065,Operaations,LOGISTICS MANAGER,MID," San Francisco, CA",2024-08-09,2024-10-04,56
+R1066,Customeer Service, Service Lead,Mid," Phoenix, AZ",2024-09-04,2024-11-12,69
+R1067,Opeerations,Logistics Manager ,Entry,"NEW YORK, NY",2024-08-25,2024-11-15,82
+R1068,Operations , Logistics Manager, Senior,"San Francisco, CA",2024-06-30,2024-08-12,43
+R1069,Customeer Service,Support Associaate,Senior,"Los Angeles, CA",2024-02-13,2024-03-24,40
+R1070,Operations,Logistics Manageer,Senior,"New York, NY ",2024-02-17,2024-04-04,47
+R1071,Opeerations,Warehouse Supervisor ,Mid," New York, NY",2024-09-28,2024-11-21,54
+R1072,HR ,recruiter,SENIOR,"Dallas, tx",2024-03-02,2024-04-05,34
+R1073, Operations,supply chain analyst, Entry,"Dallas, TX ",2024-09-25,2024-12-20,86
+R1074,ENGINEERING, Data Engineer,Entry," San Francisco, CA",2024-01-08,2024-03-26,78
+R1075,Engineering, QA Analyst,Mid,"Los Angeles, CA ",2024-09-08,2024-10-01,23
+R1076,engineering,software engineer,Mid,"Phoenix, AZ",2024-05-09,2024-07-19,71
+R1077,Engineering,software engineer,Seenior,"San francisco, ca",2024-06-04,2024-06-24,20
+R1078, Customer Service,Call Ceenter Agent,Mid,"san francisco, ca",2024-08-18,2024-10-23,66
+R1079,engineering,QA ANALYST,ENTRY,"san francisco, ca",2024-04-18,2024-05-31,43
+R1080,Engineering, Software Engineer,Entry," New York, NY",2024-07-28,2024-10-03,67
+R1081,Operations,Logistics Manageer,Entry," Dallas, TX",2024-04-29,2024-06-11,43
+R1082, Engineering, Software Engineer,mid," Los Angeles, CA",2024-01-31,2024-03-02,31
+R1083,Operaations,Supply Chaain Analyst,Entry,"Los Angeles, CA ",2024-09-13,2024-12-01,79
+R1084,Customer service,Call Center Agent, Senior,"San Francisco, CA",2024-01-14,2024-02-04,21
+R1085, Engineering,DATA ENGINEER,Seenior,"los angeles, ca",2024-09-22,2024-11-27,66
+R1086,Operations ,supply chain analyst,Entry ,"Los Angeles, CA",2024-07-28,2024-09-18,52
+R1087,HR,Taalent Partner,Entry ,"New York, NY ",2024-07-24,2024-10-12,80
+R1088,Maarketing,SEO Speecialist,Entry,"San Francisco, CA ",2024-09-20,2024-09-30,10
+R1089,Customer service, Call Center Agent,SENIOR,"New York, NY",2024-08-14,2024-08-30,16
+R1090,Operations,LOGISTICS MANAGER,Mid,"San Francisco, CA",2024-01-15,2024-04-14,90
+R1091,marketing,MARKETING ANALYST, Mid," San Francisco, CA",2024-02-28,2024-05-07,69
+R1092,Operaations,SUPPLY CHAIN ANALYST,Mid,"SAN FRANCISCO, CA",2024-08-29,2024-10-09,41
+R1093, Marketing,SEO Specialist, Mid,"Saan Francisco, CA",2024-07-31,2024-09-22,53
+R1094,Engineering ,Data Engineer ,Seenior,"Los Angeles, CA ",2024-10-02,2024-12-12,71
+R1095,Engineeering,Qa analyst,Mid,"New York, NY",2024-05-02,2024-07-24,83
+R1096,Operations,SUPPLY CHAIN ANALYST,Senior ,"Phoenix, AZ",2024-03-18,2024-05-30,73
+R1097,MARKETING,Conteent Manager,SENIOR,"Phoenix, AZ",2024-08-21,2024-09-01,11
+R1098,HR ,HR Coordinator,Mid,"San Francisco, CA",2024-07-22,2024-08-11,20
+R1099, Customer Service,Support associate,senior,"los angeles, ca",2024-04-30,2024-07-29,90
+R1100,Marketing,SEO Specialist,Mid,"New York, NY ",2024-03-26,2024-05-13,48
+R1101,HR,HR COORDINATOR,ENTRY,"Phoeenix, AZ",2024-03-15,2024-04-25,41
+R1102,CUSTOMER SERVICE,Service lead, Mid," Los Angeles, CA",2024-05-03,2024-07-15,73
+R1103,MARKETING,seo specialist,Mid ," San Francisco, CA",2024-05-27,2024-08-14,79
+R1104, Operations,Warehouse supervisor,Mid,"Phoenix, az",2024-05-08,2024-07-15,68
+R1105, Operations, Warehouse Supervisor,Entry,"New York, NY",2024-07-02,2024-09-23,83
+R1106,Customer Service, Service Lead,Entry ,"Dallas, tx",2024-01-26,2024-04-22,87
+R1107,customer service,Call Center Agent,Mid,"Phoenix, AZ ",2024-03-11,2024-06-09,90
+R1108,Engineeering,SOFTWARE ENGINEER,ENTRY,"San Francisco, CA ",2024-05-31,2024-07-21,51
+R1109, Customer Service,Service Leaad,Mid ,"Phoenix, AZ",2024-05-19,2024-06-19,31
+R1110,Marketing ,marketing analyst,Mid,"new york, ny",2024-04-25,2024-06-24,60
+R1111,Opeerations,Supply Chain Analyst ,Entry,"Los Angeles, CA",2024-05-14,2024-08-06,84
+R1112,Customer service,service lead,Senior,"Neew York, NY",2024-06-16,2024-09-12,88
+R1113, Marketing,Maarketing Analyst,entry,"DALLAS, TX",2024-01-24,2024-02-07,14
+R1114,Opeerations,SUPPLY CHAIN ANALYST,mid,"Los Angeeles, CA",2024-07-08,2024-09-25,79
+R1115,HR,Recruiter,Entry ,"Phoenix, AZ ",2024-07-08,2024-08-14,37
+R1116,Customeer Service, Service Lead,entry,"los angeles, ca",2024-07-02,2024-07-19,17
+R1117,Engineering ,Qa analyst,Entry,"Phoenix, az",2024-01-11,2024-01-27,16
+R1118,CUSTOMER SERVICE,Support Associate,MID," Dallas, TX",2024-04-29,2024-06-20,52
+R1119,Engineering,Software Engineer ,Entry ,"PHOENIX, AZ",2024-01-14,2024-02-09,26
+R1120,hr,recruiter,Mid,"new york, ny",2024-03-05,2024-05-07,63
+R1121,Operations, Warehouse Supervisor,Mid,"Phoenix, AZ",2024-04-23,2024-07-20,88
+R1122,Operaations,supply chain analyst,Entry ,"SAN FRANCISCO, CA",2024-02-25,2024-05-07,72
+R1123,Marketing ,Markeeting Analyst, Senior,"Los Angeeles, CA",2024-05-20,2024-08-17,89
+R1124,Marketing,Conteent Manager,Mid,"Los Angeles, CA ",2024-02-28,2024-05-18,80
+R1125,Operations ,Supply Chain Analyst, Mid,"NEW YORK, NY",2024-07-31,2024-08-22,22
+R1126,operations,Logistics Manageer,Entry ,"Dallas, TX",2024-02-16,2024-03-07,20
+R1127,Customeer Service,Service Lead ,Seenior," Phoenix, AZ",2024-06-17,2024-07-12,25
+R1128,Customer service,CALL CENTER AGENT,Senior,"dallas, tx",2024-06-29,2024-07-22,23
+R1129, HR,Talent partner,Mid," San Francisco, CA",2024-07-07,2024-07-31,24
+R1130,Marketing ,Marketing Analyst ,ENTRY,"Dallas, TX",2024-05-19,2024-07-07,49
+R1131,Marketing,Markeeting Analyst,Mid,"NEW YORK, NY",2024-01-16,2024-02-06,21
+R1132,hr,HR Coordinator,ENTRY,"San Francisco, CA",2024-06-15,2024-09-05,82
+R1133,Maarketing,SEO Speciaalist, Mid,"dallas, tx",2024-08-14,2024-10-17,64
+R1134,HR, HR Coordinator,Entry,"Los Angeles, CA",2024-02-26,2024-04-12,46
+R1135,MARKETING, Marketing Analyst,Mid ,"Phoenix, AZ",2024-06-03,2024-07-10,37
+R1136,OPERATIONS,Wareehouse Supervisor,Senior,"San Francisco, CA ",2024-08-08,2024-09-09,32
+R1137,Marketing,SEO Speciaalist,Entry ,"San Francisco, CA",2024-01-22,2024-03-27,65
+R1138,customer service,Call Ceenter Agent,Entry ,"Daallas, TX",2024-08-01,2024-09-17,47
+R1139,Hr,Reecruiter,Seenior,"san francisco, ca",2024-08-11,2024-09-03,23
+R1140,Operations ,SUPPLY CHAIN ANALYST,entry,"San francisco, ca",2024-06-22,2024-07-30,38
+R1141,hr,HR COORDINATOR,Mid,"DALLAS, TX",2024-03-16,2024-04-25,40
+R1142,Maarketing,Marketing Analyst ,Senior ,"Daallas, TX",2024-09-09,2024-11-17,69
+R1143, Marketing, SEO Specialist,Senior,"new york, ny",2024-08-14,2024-11-12,90
+R1144,HR,HR Coordinator ,mid,"Phoeenix, AZ",2024-08-19,2024-09-02,14
+R1145,Operations,Warehouse Supervisor ,Senior,"SAN FRANCISCO, CA",2024-01-22,2024-03-29,67
+R1146,marketing,SEO SPECIALIST,Entry,"Los Angeles, CA",2024-02-22,2024-04-15,53
+R1147,Customer Service , Service Lead,Mid,"New York, NY",2024-03-22,2024-05-17,56
+R1148,HR, Recruiter,MID,"new york, ny",2024-06-17,2024-07-09,22
+R1149, Customer Service,Seervice Lead,entry,"Neew York, NY",2024-03-13,2024-05-06,54
